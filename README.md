@@ -12,10 +12,10 @@ An interactive Streamlit-based web application is developed to provide real-time
 ## Web Application Preview
 
 ### Step 1: Dataset Upload Interface
-![Step 1 Preview](step1_preview.png)
+![Step 1 Preview](step1.png)
 
 ### Step 2: DAC Output Prediction
-![Step 2 Preview](step2_preview.png)
+![Step 2 Preview](step2.png)
 
 ---
 
